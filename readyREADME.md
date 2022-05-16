@@ -3,15 +3,15 @@
 ## Table of contents
 <details>
 <summary><strong>Table of Contents</strong></summary>
+
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
 - [Usage Examples](#usage-examples)
 - [Credits](#credits)
 - [License](#license)
 - [Features](#features)
-- [Tests](#tests)
-- [Questions](#questions)
-- [Additional Sections](#additional-sections)
+- [Testing](#testing)
+- [Contact Me](#contact-me)
 </details>
 
 ## Description
@@ -25,13 +25,13 @@ To get the project set up locally please follow the following steps:
  2. Clone this repository https://github.com/mrhappywaves/get-me-readme to your local machine
  3. Open the repository with an IDE of your preference
  4. Switch your current directory to the local repository path (Ex: '..\Desktop\get-me-readme')
- 5. In your IDE console run - \`npm i\` 
- 5. In your IDE console run - \`node index.js\`
+ 5. In your IDE console run - `npm i` 
+ 5. In your IDE console run - `node index.js`
  
 ## Usage Examples
 Application can be used to create good README files. 
 
-![Walkthrough video](./walkthrough.mp4)
+![Walkthrough video](walkthrough.mp4)
 
 ## Credits
  - Me 
@@ -51,9 +51,9 @@ Application can be used to create good README files.
  - This application outputs a README file. 
 
 ## Testing
-undefined
+There are no tests written for this application yet. 
 
 ## Contact me
-Please reach out with any questions regarding the application.
-My email is mrhappywaves@gmail.com
-You can find me on Github via my name - mrhappywaves, or just follow this link https://github.com/mrhappywaves
+Please reach out with any questions regarding the application:
+ - My email is mrhappywaves@gmail.com
+ - You can find me on Github via my username - mrhappywaves, or just follow this link https://github.com/mrhappywaves

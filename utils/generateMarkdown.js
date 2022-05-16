@@ -3,17 +3,16 @@ function generateMarkdown(data) {
 return `# ${data.title}
 
 ## Table of contents
-<details>
-<summary><strong>Table of Contents</strong></summary>
+<details><summary><strong>Table of Contents</strong></summary>
+
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
 - [Usage Examples](#usage-examples)
 - [Credits](#credits)
 - [License](#license)
 - [Features](#features)
-- [Tests](#tests)
-- [Questions](#questions)
-- [Additional Sections](#additional-sections)
+- [Testing](#testing)
+- [Contact Me](#contact-me)
 </details>
 
 ## Description
@@ -40,9 +39,9 @@ ${data.featuresList}
 ${data.testingInstructions}
 
 ## Contact me
-Please reach out with any questions regarding the application.
-My email is ${data.emailAddress}
-You can find me on Github via my name - ${data.gitHubName}, or just follow this link ${data.gitHubLink}
+Please reach out with any questions regarding the application:
+ - My email is ${data.emailAddress}
+ - You can find me on Github via my username - ${data.gitHubName}, or just follow this link ${data.gitHubLink}
 `;
 }
 
